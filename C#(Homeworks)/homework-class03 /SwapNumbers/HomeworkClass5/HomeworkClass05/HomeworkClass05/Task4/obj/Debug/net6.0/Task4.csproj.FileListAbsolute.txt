@@ -1,0 +1,15 @@
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/bin/Debug/net6.0/Task4
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/bin/Debug/net6.0/Task4.dll
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.dll
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/dejanmladenov/Desktop/HomeworkClass5/HomeworkClass05/Task4/obj/Debug/net6.0/ref/Task4.dll
