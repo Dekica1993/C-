@@ -1,0 +1,15 @@
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).csproj.AssemblyReference.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).GeneratedMSBuildEditorConfig.editorconfig
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).AssemblyInfoInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).AssemblyInfo.cs
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).csproj.CoreCompileInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/bin/Debug/net6.0/Homeworkclass7(Option2)
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/bin/Debug/net6.0/Homeworkclass7(Option2).deps.json
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/bin/Debug/net6.0/Homeworkclass7(Option2).runtimeconfig.json
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/bin/Debug/net6.0/Homeworkclass7(Option2).dll
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/bin/Debug/net6.0/Homeworkclass7(Option2).pdb
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).dll
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/refint/Homeworkclass7(Option2).dll
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).pdb
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/Homeworkclass7(Option2).genruntimeconfig.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7(Option2)/Homeworkclass7(Option2)/Homeworkclass7(Option2)/obj/Debug/net6.0/ref/Homeworkclass7(Option2).dll
