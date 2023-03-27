@@ -1,0 +1,15 @@
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/bin/Debug/net6.0/HomeworkClass07
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/bin/Debug/net6.0/HomeworkClass07.deps.json
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/bin/Debug/net6.0/HomeworkClass07.runtimeconfig.json
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/bin/Debug/net6.0/HomeworkClass07.dll
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/bin/Debug/net6.0/HomeworkClass07.pdb
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.csproj.AssemblyReference.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.AssemblyInfoInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.AssemblyInfo.cs
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.csproj.CoreCompileInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.dll
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/refint/HomeworkClass07.dll
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.pdb
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/HomeworkClass07.genruntimeconfig.cache
+/Users/dejanmladenov/Desktop/HomeworkClass7/HomeworkClass07/HomeworkClass07/obj/Debug/net6.0/ref/HomeworkClass07.dll
