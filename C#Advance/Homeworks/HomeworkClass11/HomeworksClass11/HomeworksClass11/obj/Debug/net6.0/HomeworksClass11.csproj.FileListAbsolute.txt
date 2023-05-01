@@ -1,0 +1,17 @@
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/bin/Debug/net6.0/HomeworksClass11
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/bin/Debug/net6.0/HomeworksClass11.deps.json
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/bin/Debug/net6.0/HomeworksClass11.runtimeconfig.json
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/bin/Debug/net6.0/HomeworksClass11.dll
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/bin/Debug/net6.0/HomeworksClass11.pdb
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.csproj.AssemblyReference.cache
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.AssemblyInfoInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.AssemblyInfo.cs
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.csproj.CoreCompileInputs.cache
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.csproj.CopyComplete
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.dll
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/refint/HomeworksClass11.dll
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.pdb
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/HomeworksClass11.genruntimeconfig.cache
+/Users/dejanmladenov/Desktop/HomeworkClass11/HomeworksClass11/HomeworksClass11/obj/Debug/net6.0/ref/HomeworksClass11.dll
